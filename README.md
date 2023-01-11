@@ -1,10 +1,17 @@
+# LinkedIn Clone
+
+This is a LinkedIn clone built using React, Redux, Material-UI, and Firebase (for database and authentication). The application allows users to create and view profiles, connect with other users, and interact with the database.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+## Built With
 
-In the project directory, you can run:
+- React - JavaScript library for building user interfaces
+- Redux - JavaScript library for managing application state
+- Material-UI - React components that implement the Material Design guidelines
+- Firebase - Mobile and web application development platform
 
 ### `npm start`
 
@@ -16,8 +23,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
@@ -29,7 +35,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Screenshots![Screenshot (29)](https://user-images.githubusercontent.com/108976136/211820020-963c9909-3367-4461-8fba-b886dbe0c340.png)
+
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
