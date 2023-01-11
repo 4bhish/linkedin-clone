@@ -2,7 +2,7 @@
 
 This is a LinkedIn clone built using React, Redux, Material-UI, and Firebase (for database and authentication). The application allows users to create and view profiles, connect with other users, and interact with the database.
 
-# Getting Started with Create React App and Redux
+# Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
